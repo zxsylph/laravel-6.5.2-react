@@ -68955,7 +68955,9 @@ function (_Component) {
         className: "row test2"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Class Test2")))));
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+        className: "label"
+      }, "Class Test2")))));
     }
   }]);
 

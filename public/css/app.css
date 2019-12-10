@@ -11364,3 +11364,7 @@ a.text-dark:focus {
   background-color: green;
 }
 
+.test2 .label {
+  color: red;
+}
+

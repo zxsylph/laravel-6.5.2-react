@@ -21,7 +21,7 @@ class SampleReactContainer extends Component {
           </div>
           <div className='row test2'>
             <div className='col'>
-              <h1>Class Test2</h1>
+              <h1 className='label'>Class Test2</h1>
             </div>
           </div>
         </div>
